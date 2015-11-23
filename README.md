@@ -7,3 +7,6 @@ change git config
 http://pad.software-carpentry.org/2015-11-23-harvard
 
 try edit on github
+
+add line on github
+
